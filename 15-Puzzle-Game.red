@@ -35,7 +35,7 @@ board: does [
        print  mid-board
     ]
     line-board 4
-    print botton-board    
+    print botton-board
 ]
 
 valid?: func[][
@@ -59,9 +59,7 @@ move-tile: func[m][
 win?: func[][
     repeat i 15 [
         if numbers/:i <> i [ break]
-        ;numbers: next numbers
     ]
-    numbers: head numbers
     print i
     i = 15
 ]
