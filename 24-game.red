@@ -34,15 +34,13 @@ forever [
     ]
     parse e [some [digit insert ".0 " | skip insert " "]]
     e: to block! e
-    if error? r: try [math e][
-        print ["Error:" r/id]
-        continue
-    ]
+    probe e
+    r: math e
     either r = 24 [
         print ["Congratulations. " i "= 24"]
         newnumbers
     ][
-        print ["Sorry. " i "=" to integer! r "not 24"]
+        print ["Sorry. " i "=" r "not 24"]
     ]
 ]
 print "Bye"
