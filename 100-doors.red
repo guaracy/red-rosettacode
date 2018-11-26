@@ -1,8 +1,8 @@
 Red [
     Purpose: "100 Doors"
-    Rosettacode: http://www.rosettacode.org/wiki/100_doors 
+    Rosettacode: http://www.rosettacode.org/wiki/100_doors
     Author: "Guaracy Monteiro"
-    Date: 24/10/2018
+    Date: 24/11/2018
 ]
 
 closed: "◼"

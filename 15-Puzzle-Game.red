@@ -1,8 +1,8 @@
 Red [
     Purpose: "15 Puzzle Game"
-    Rosettacode: http://www.rosettacode.org/wiki/15_Puzzle_Game 
+    Rosettacode: http://www.rosettacode.org/wiki/15_Puzzle_Game
     Author: "Guaracy Monteiro"
-    Date: 25/10/2018
+    Date: 25/11/2018
 ]
 
 random/seed now
