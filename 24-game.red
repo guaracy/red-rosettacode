@@ -3,6 +3,8 @@ Red [
     Rosettacode: http://www.rosettacode.org/wiki/24_game
     Author: "Guaracy Monteiro"
     Date: 25/11/2018
+    Used-words: [charset random/seed now does sort collect keep random forever print ask if break continue
+        copy trim/all unless parse some append integer! skip sort insert to block! probe math quit]
 ]
 
 expr:    [primary ["*" | "/" | "+" | "-"] expr | primary]

@@ -3,6 +3,7 @@ Red [
     Rosettacode: http://www.rosettacode.org/wiki/100_doors
     Author: "Guaracy Monteiro"
     Date: 24/11/2018
+    Used-words [make bitset! does print append/dup copy repeat prin either while not ] 
 ]
 
 closed: "◼"

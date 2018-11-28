@@ -3,6 +3,8 @@ Red [
     Rosettacode: http://www.rosettacode.org/wiki/15_Puzzle_Game
     Author: "Guaracy Monteiro"
     Date: 25/11/2018
+    Used-words: [random/seed now func either return rejoin copy/part loop prin print repeat
+        case/all index? find break foreverload ask quit wait continue]
 ]
 
 random/seed now
