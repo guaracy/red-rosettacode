@@ -45,6 +45,6 @@ four-squares: function[l h /unique? /show?][
     ]
     cnt
 ]
-;four-squares/unique?/show? 1 7
-;four-squares/unique?/show? 3 9
+four-squares/unique?/show? 1 7
+four-squares/unique?/show? 3 9
 four-squares 0 9
